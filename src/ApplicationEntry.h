@@ -1,7 +1,3 @@
-//
-//  ApplicationEntry.h
-//
-
 #import <Cocoa/Cocoa.h>
 
 
