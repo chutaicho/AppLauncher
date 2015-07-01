@@ -13,9 +13,12 @@
 	
 	NSSize iconSize = [entry.icon size];
 	NSPoint p1 = cellFrame.origin;
-	if ([controlView isFlipped]) {
+	
+    if ([controlView isFlipped])
+    {
 		p1.y += iconSize.height;
 	}
+    
 	[entry.icon compositeToPoint:p1 operation:NSCompositeSourceOver];
 	
 	NSRect nameRect = cellFrame;
@@ -25,15 +28,13 @@
 	NSDictionary* attrs = [NSDictionary dictionary];
 	[entry.name drawInRect:nameRect withAttributes:attrs];
 }
-
 - (id)copyWithZone:(NSZone *)zone
 {
 	ApplicationCell* cell = (ApplicationCell*)[super copyWithZone:zone];
 	return cell;
 }
-
-- (NSUInteger)hitTestForEvent:(NSEvent *)event inRect:(NSRect)cellFrame ofView:(NSView *)controlView {
-	
+- (NSUInteger)hitTestForEvent:(NSEvent *)event inRect:(NSRect)cellFrame ofView:(NSView *)controlView
+{
 	return NSCellHitContentArea;
 }
 
