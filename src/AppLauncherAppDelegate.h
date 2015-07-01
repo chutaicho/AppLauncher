@@ -1,9 +1,6 @@
 //
-//  AppLauncherAppDelegate.h
-//  AppLauncher
-//
-//  Created by Takashi Aoki on 12/02/23.
-//  (c)takashiaoki.com
+//  AppLauncher 1.0
+//  Created by Takashi Aoki (c) takashiaoki.com
 //
 
 #import <Cocoa/Cocoa.h>
