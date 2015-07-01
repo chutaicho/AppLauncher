@@ -1,6 +1,16 @@
-AppLauncher by Takashi Aoki (c) [takashiaoki.com](http://takashiaoki.com)
+####AppLauncher
 
---
+Version: 1.1  
+Created by [takashiaoki.com](http://takashiaoki.com)  
 
-* Restart listed apps when these are accidentaly terminated for some reason.
-* Set the interval time to boot apps by slider GUI 
+![Screenshot](/../master/screenshot.png?raw=true "")
+
+####What this does.
+
+- Launch Apps
+- Restart listed apps when these are accidentaly terminated.
+- Quit apps in schedule.
+
+
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F191406F-6AEE-4833-BFE5-BB989A74CFAE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppLauncher</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>151654B1E6A2835E9C85432CEF64174DEFD1D77B</key>
+		<string>https://github.com/chutaicho/AppLauncher.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AppLauncher.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>151654B1E6A2835E9C85432CEF64174DEFD1D77B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chutaicho/AppLauncher.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>151654B1E6A2835E9C85432CEF64174DEFD1D77B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>151654B1E6A2835E9C85432CEF64174DEFD1D77B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppLauncher</string>
+		</dict>
+	</array>
+</dict>
+</plist>
